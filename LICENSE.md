@@ -1,4 +1,4 @@
-# 
+# 智能 WinRAR 附加组件 Mac OS版 | 安全 WinRAR 附加组件 PC Windows版。集成 脚本支持 和 窗口管理，跨平台性能最大化。
 
 
 
